@@ -1,0 +1,6 @@
+{
+  "name": "X Clone",
+  "description": "A full-stack single-user Twitter/X clone using Express and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
